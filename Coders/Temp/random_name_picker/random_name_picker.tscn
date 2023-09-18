@@ -1,6 +1,24 @@
-[gd_scene load_steps=2 format=3 uid="uid://dswxtkdwfplgn"]
+[gd_scene load_steps=3 format=3 uid="uid://dswxtkdwfplgn"]
 
 [ext_resource type="Script" path="res://Coders/Temp/random_name_picker/random_name_picker.gd" id="1_i2hqx"]
+[ext_resource type="Theme" uid="uid://k07l86t5mfh5" path="res://codeventure_0.tres" id="2_0g16p"]
 
 [node name="random_name_picker" type="Node2D"]
 script = ExtResource("1_i2hqx")
+
+[node name="RandomCoderButton" type="Button" parent="."]
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -90.0
+offset_top = -95.0
+offset_right = 90.0
+grow_horizontal = 2
+grow_vertical = 0
+theme = ExtResource("2_0g16p")
+toggle_mode = true
+text = "randi();"
+
+[connection signal="button_down" from="RandomCoderButton" to="." method="_death"]
