@@ -11,4 +11,4 @@ On the bus ride home from an adventure, I had an idea for staying focused while 
 
 ## At some random star counter
 
-- i said i have bad grammer but i want to tell that i am gona implement some food my next game based on some spots in my city dicka.
+- i said i have bad grammer but i want to tell that i am gona implement some food my next game based on some spots in my city.
