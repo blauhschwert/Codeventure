@@ -12,4 +12,4 @@ On the bus ride home from an adventure, I had an idea for staying focused while 
 ## At some random star counter
 
 - i said i have bad grammer but i want to tell that i am gona implement some food my next game based on some spots in my city.
-- ⭐#1 : [JUNZ1](https://github.com/JUNZ1"JUNZ1") // thank you JUNZ1 i am gona dedicate on of my favorite meals the [burger](https://www.instagram.com/p/CxYILyzrPYP/?utm_source=ig_web_copy_link"burger").
+- ⭐#1 : [JUNZ1](https://github.com/JUNZ1) // thank you JUNZ1 i am gona dedicate on of my favorite meals the [burger](https://www.instagram.com/p/CxYILyzrPYP/?utm_source=ig_web_copy_link"burger").
